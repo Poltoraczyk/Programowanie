@@ -1,0 +1,21 @@
+.city{
+    background-color: blue;
+    color: crimson;
+    padding: 10px;
+}
+.country{
+    background-color: darkmagenta;
+    color: cyan;
+    padding: 10px;
+}
+.postalcode{
+    background-color: darkorange;
+    color: navy;
+    padding: 5px;
+
+}
+.street{
+    background-color: palegreen;
+    color: red;
+    padding: 5px;
+}
